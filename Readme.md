@@ -17,3 +17,5 @@
 Усі дані знаходяться в папці datasets. 
 
 Корисні посилання: https://ivy-ear-fd9.notion.site/7b54982f6c0842179d96e71387a44f65
+
+https://machinelearningmastery.com/calculate-feature-importance-with-python/
